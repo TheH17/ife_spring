@@ -1,0 +1,61 @@
+body{
+	width: 1280px;
+	height:1266px;
+	margin: 0 auto;
+	background: pink;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.header{
+	width: 1280px;
+	height:55px;
+	background: #2189C0;
+	border-bottom: 1px solid #2478A7;
+}
+.header_logo_div{
+	float: left;
+	width: 100px;
+	height:55px;
+	margin-left: 0px;
+}
+.header_logo_div s{
+	float: left;
+	display: inline-block;
+	width:36px;
+	height:36px;
+	margin:10px 0 0 50px;
+	background:url(../image/logo.png);
+	cursor: pointer;
+}
+.header_operation_div{
+	float: right;
+	width: 500px;
+	height:55px;
+	margin-right: 0px;
+}
+.header_operation_div input {
+	float: left;
+	width: 310px;
+	height:26px;
+	margin: 12px 0 0 32px;
+	border: 1px solid #83BCDA;
+	border-radius: 13px;
+}
+.header_operation_div s{
+	float: left;
+	display: inline-block;
+	width:16px;
+	height:16px;
+	margin:18px 0 0 20px;
+	background:url(../image/login.png);
+	cursor: pointer;
+}
+.header_operation_div a{
+	float: left;
+	display: inline-block;
+	font-size: 12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	margin:20px 0 0 3px;
+	cursor: pointer;
+}

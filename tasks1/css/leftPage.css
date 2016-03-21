@@ -1,0 +1,171 @@
+.leftPage{
+	width:259px;
+	height:1209px;
+	float:left;
+	background: #2B2E3D;
+	border-bottom: 1px solid #515561;
+	border-right: 1px solid #515561;
+}
+.leftPage_userInfo{
+	width:259px;
+	height:150px;
+	float:left;
+	border-bottom: 1px solid #2E3142;
+}
+.leftPage_userInfo_top{
+	width:259px;
+	height:80px;
+	float:left;
+
+}
+.leftPage_userInfo_top s {
+	float: left;
+	display: inline-block;
+	width:57px;
+	height:57px;
+	margin:18px 0 0 45px;
+	background:url(../image/user.png);
+	cursor: pointer;
+}
+.leftPage_userInfo_top p{
+	font-size: 12px;
+	float: left;
+	font-weight: bold;
+	margin:40px 0 0 18px;
+	color:#F6F4F5;
+	cursor: pointer;
+}
+.leftPage_userInfo_bottom{
+	width:259px;
+	height:70px;
+	float:left;
+}
+.leftPage_userInfo_bottom ul{
+	padding-top: 10px;
+	padding-left: 63px;
+}
+.leftPage_userInfo_bottom li{
+	float: left;
+}
+.leftPage_userInfo_bottom li s{
+	float: left;
+	display: inline-block;
+	margin-left: 31px;
+	width:2px;
+	height:28px;
+	background:url(../image/line.png);
+	cursor: pointer;
+}
+.leftPage_userInfo_bottom li a{
+	font-size:12px;
+	font-weight:bold;
+	color:#6E8096;
+	cursor: pointer;
+	float: left;
+}
+.leftPage_userInfo_bottom_a2{
+	padding-left: 31px;
+}
+.leftPage_operation{
+	width:259px;
+	height:1066px;
+	float:left;
+}
+.leftPage_operation ul{
+	padding-top: 0px;
+}
+.leftPage_operation_li1{
+	width:259px;
+	height:190px;
+	background:#383E4E;
+}
+.leftPage_operation_li2{
+	width:259px;
+	height:48px;
+	background:#2B2E3D;
+}
+.leftPage_operation_li_s1{
+	float: left;
+	display: inline-block;
+	margin: 18px 0 0 45px;
+	width:12px;
+	height:11px;
+	background:url(../image/li_logo.png);
+	cursor: pointer;
+}
+.leftPage_operation_li_a1{
+	font-size:12px;
+	font-weight:bold;
+	color:#67768B;
+	cursor: pointer;
+	float: left;
+	margin:18px 0 0 14px;
+}
+.secondUl{
+	width:259px;
+	height:155px;
+	float:left;
+	margin-bottom: 0px;
+}
+.secondUl ul{
+	padding-top: 0px;
+}
+.leftPage_operation_li3{
+	width:259px;
+	height:48px;
+	background:#383E4E;
+}
+.leftPage_operation_li_s2{
+	float: left;
+	display: inline-block;
+	margin: 18px 0 0 70px;
+	width:12px;
+	height:11px;
+	background:url(../image/li_logo.png);
+	cursor: pointer;
+}
+.leftPage_operation_li_s3{
+	float: left;
+	display: inline-block;
+	margin: 18px 0 0 9px;
+	width:12px;
+	height:11px;
+	background:url(../image/li_logo.png);
+	cursor: pointer;
+}
+.leftPage_operation_li_a2{
+	font-size:12px;
+	font-weight:bold;
+	color:#6D7F95;
+	cursor: pointer;
+	float: left;
+	margin:18px 0 0 5px;
+}
+.leftPage_operation_li4{
+	width:259px;
+	height:59px;
+	background:#383E4E;
+}
+.leftPage_operation_li_s4{
+	float: left;
+	display: inline-block;
+	margin: 5px 0 0 100px;
+	width:12px;
+	height:11px;
+	background:url(../image/li_logo.png);
+	cursor: pointer;
+}
+.thirdUl{
+	width:259px;
+	height:30px;
+	float:left;
+	margin-top: 2px;
+}
+.leftPage_operation_li_a3{
+	font-size:12px;
+	font-weight:bold;
+	color:#6D7F95;
+	cursor: pointer;
+	float: left;
+	margin:5px 0 0 5px;
+}
